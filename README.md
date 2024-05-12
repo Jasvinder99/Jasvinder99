@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jasvinder99
-- 👀 I’m interested in programming and development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Python Programming and Development
+- 🌱 I’m currently learning web development and Django
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me ...
 
